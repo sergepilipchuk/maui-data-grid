@@ -1,5 +1,5 @@
 <!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/381994763/23.2.3%2B)
+![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/381994763/24.2.3%2B)
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T1011038)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 [![](https://img.shields.io/badge/💬_Leave_Feedback-feecdd?style=flat-square)](#does-this-example-address-your-development-requirementsobjectives)
@@ -10,8 +10,7 @@
 
 ![DevExpress Mobile UI for .NET MAUI](./img/maui.png)
 
-The **DevExpress Mobile UI for Xamarin.Forms and .NET MAUI** is free of charge. To learn more about our offer and get your copy, visit [Free DevExpress Mobile UI for Xamarin.Forms and .NET MAUI](https://www.devexpress.com/xamarin-free).
-
+You need a [DevExpress .NET MAUI Subscription](https://www.devexpress.com/maui/) to run the example. To evaluate our controls, you can start a [free 30-day trial](https://docs.devexpress.com/MAUI/404024/get-started/register-nuget-gallery) through the DevExpress NuGet feed.
 
 ## Requirements
 
@@ -64,6 +63,7 @@ This repository contains projects that allow you to achieve the following tasks:
 * [Drag and Drop - Replicate a Single-Column Kanban View](/CS/SingleColumnKanbanView/)
 * [Implement Search Bar](/CS/SearchBar/)
 * [Export DataGrid Data](/CS/ExportGridData/)
+* [Import Excel Data](/CS/ImportExcelData/)
 
 ## Documentation
 
